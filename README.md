@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Me chamo Patrick Fernando, sou um Programador Front End em fase de aprendizado, e atualmente, estou aprendendo e criando projetos com HTML, CSS e iniciando o aprendizado de JavaScript e React.
+Sou o Patrick Fernando, sou um Programador Front End em fase de aprendizado, e atualmente, estou aprendendo e criando projetos com HTML, CSS e iniciando o aprendizado de JavaScript e React.
